@@ -16,6 +16,7 @@
 //
 //    let nibView = Bundle.main.loadNibNamed(name!, owner: self, options: nil)!.first
 //    return nibView as! UIView
+    
     UINib * nib = [UINib nibWithNibName:NSStringFromClass([self class]) bundle:nil];
     UIView * view = [[UIView alloc]init];
     return view;
