@@ -14,9 +14,7 @@
 
 //6立即
 
-//8qweqqweq
-
-//9qwrqeqeqweq
+//9
 
 #import "ViewController.h"
 #import "NSString+X_NSString.h"
