@@ -14,8 +14,6 @@
 
 //6立即
 
-//8qweqqweq
-
 //9
 
 #import "ViewController.h"
