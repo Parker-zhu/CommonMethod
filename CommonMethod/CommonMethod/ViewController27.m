@@ -33,7 +33,9 @@
     NSLog(@"%d--%d",[@"1" isPhoneNumber],[@"17602138417" isPhoneNumber]);
     [@"17602138417" isPhoneNumber];
 }
-
+-(void)toubeng{
+    
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
