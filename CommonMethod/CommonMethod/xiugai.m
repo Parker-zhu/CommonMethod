@@ -15,7 +15,7 @@
 //6立即
 
 //9
-
+///修改文件名
 #import "ViewController.h"
 #import "NSString+X_NSString.h"
 @interface ViewController ()
@@ -33,6 +33,7 @@
     NSLog(@"%d--%d",[@"1" isPhoneNumber],[@"17602138417" isPhoneNumber]);
     [@"17602138417" isPhoneNumber];
 }
+//
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
