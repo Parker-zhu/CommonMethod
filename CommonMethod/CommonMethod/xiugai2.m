@@ -33,6 +33,9 @@
     NSLog(@"%d--%d",[@"1" isPhoneNumber],[@"17602138417" isPhoneNumber]);
     [@"17602138417" isPhoneNumber];
 }
+-(void)xiugaiIMac{
+    
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
